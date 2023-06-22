@@ -1,0 +1,5 @@
+# notes
+
+#1. The children prop holds all the content you're passing between the opening and closing tag off your custom component.
+#2. <React.Fragment> is can be used in place of div also known as Wrapping Component
+#3. So React DOM is kind of the adapter for React to the browser
